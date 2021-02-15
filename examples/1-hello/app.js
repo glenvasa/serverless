@@ -1,5 +1,3 @@
-const { default: axios } = require("axios");
-
 const result = document.querySelector(".result");
 
 const fetchData = async () => {
